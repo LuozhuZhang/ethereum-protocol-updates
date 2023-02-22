@@ -1,6 +1,6 @@
 # The Motivation
 
-[![hackmd-github-sync-badge](https://hackmd.io/ZFGjmreuQJy8GqtsKk0GjQ/badge)](https://hackmd.io/ZFGjmreuQJy8GqtsKk0GjQ)
+[![hackmd-github-sync-badge](https://hackmd.io/ZFGjmreuQJy8GqtsKk0GjQ/badge)](https://github.com/LuozhuZhang/ethereum-protocol-updates/blob/main/Motivation/motivation.md)
 
 
 ###### tags: `research`
